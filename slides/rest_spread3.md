@@ -1,6 +1,6 @@
 # Spread
 
-Es muy útil para extender objetos:
+Es útil para extender objetos:
 
 <pre><code>
 var a = {

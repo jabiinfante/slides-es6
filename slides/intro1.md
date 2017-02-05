@@ -4,7 +4,7 @@
 
 * La última revisión (ES5) era de 2009
 
-* Actualización muy importante del lenguage
+* Actualización muy importante (**y necesaria**) del lenguage
 
 
-> La idea es evitar trucos y trampas poco elegantes
+> La idea es evitar _ñapas_ (muy presentes en JS hasta ahora)

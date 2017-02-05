@@ -42,21 +42,39 @@
     [
         "classes0.md",
         "classes1.md",
-        "classes2.md"
+        "classes2.md",
+        "classes3.md",
+        "classes4.md"
     ],
     [
         "modules0.md",
         "modules1.md",
-        "modules2.md"
+        "modules2.md",
+        "modules3.md",
+        "modules4.md",
+        "modules5.md"
     ],
     [
         "promises0.md",
         "promises1.md",
-        "promises2.md"
+        "promises2.md",
+        "promises3.md",
+        "promises4.md",
+        "promises5.md"
+
     ],
     [
         "set_map_weak0.md",
         "set_map_weak1.md",
-        "set_map_weak2.md"
+        "set_map_weak2.md",
+        "set_map_weak3.md",
+        "set_map_weak4.md",
+        "set_map_weak5.md",
+        "set_map_weak6.md",
+        "set_map_weak7.md",
+        "set_map_weak8.md"
+    ],
+    [
+        "more.md"
     ]
 ]

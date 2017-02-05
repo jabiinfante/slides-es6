@@ -9,5 +9,7 @@
 * Móviles: iOS10 (Android está todavía un poco atrás)
 
  > https://kangax.github.io/compat-table/es6/
+ > http://caniuse.com/#search=es6
 
-** Es necesario transpilar nuestro código ES6 para llevarlo a producción (nov2016) **
+
+** Es necesario transpilar nuestro código ES6 para llevarlo a producción (feb2017) **
