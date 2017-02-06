@@ -32,12 +32,16 @@
     [
         "iterators0.md",
         "iterators1.md",
-        "iterators2.md"
+        "iterators2.md",
+        "iterators3.md",
+        "iterators4.md"
     ],
     [
         "generators0.md",
         "generators1.md",
-        "generators2.md"
+        "generators2.md",
+        "generators3.md",
+        "generators4.md"
     ],
     [
         "classes0.md",

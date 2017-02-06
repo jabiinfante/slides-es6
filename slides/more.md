@@ -1,5 +1,7 @@
 # Más y Mejor
 
+[Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
+
 [ES6 features - Luke Hoban](https://github.com/lukehoban/es6features)
 
 [ES6 workshop - Kent C. Dodds](https://github.com/kentcdodds/es6-workshop)
