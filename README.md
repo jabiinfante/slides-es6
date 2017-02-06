@@ -15,4 +15,6 @@ Se cubren los siguientes aspectos:
  - promesas
  - map / set
 
- 
+[Acceso Online](https://jabiinfante.github.io/slides-es6)
+
+> Se a utilizado [generator-reveal](https://github.com/slara/generator-reveal) de [Yeoman](http://yeoman.io/) para generar esta presentación.
